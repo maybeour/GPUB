@@ -1,0 +1,16 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VUIScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VUIScript",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/VUI/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+  "tags":[
+    "VUI",
+  ],
+}

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_GPUBdefault",
+  "name":"sh_GPUBdefault",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/GPUB/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

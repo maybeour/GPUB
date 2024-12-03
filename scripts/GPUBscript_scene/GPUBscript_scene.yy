@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GPUBscript_scene",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GPUBscript_scene",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/GPUB/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

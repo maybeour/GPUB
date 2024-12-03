@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Keyword",
+  "name":"Keyword",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/GPUB/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
